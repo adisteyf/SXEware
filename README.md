@@ -151,8 +151,3 @@ cmake --build .   # Windows (MSVC)
 ---
 
 This list covers all libraries used. Let me know if you need additional dependencies or installation details!
-
-
-
-
-
